@@ -1,4 +1,4 @@
-![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQEWigAZFfUZ1w/profile-displaybackgroundimage-shrink_200_800/0/1648828520435?e=2147483647&v=beta&t=AzKXY8og20pzr_nsbQz7p90zBs5c_UxzxSM6q1eQm4A)
+![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Nalin Ekanayake</h1>
 <h3 align="center">A passionate software engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif">
