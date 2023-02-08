@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [online shop](https://github.com/Nalince/online-shop)
 
-- 🌱 I’m currently learning **MERN Stack & Springboot**
+- 🌱 I’m currently learning **Springboot, Flutter, VueJs, Angular**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nalince/](https://github.com/Nalince/)
 
