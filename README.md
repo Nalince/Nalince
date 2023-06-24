@@ -1,11 +1,9 @@
 ![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Nalin Ekanayake</h1>
-<h3 align="center">A passionate software engineer</h3>
+<h3 align="center">Fullstack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif">
 
-- 🔭 I’m currently working on [online shop](https://github.com/Nalince/online-shop)
-
-- 🌱 I’m currently learning **Springboot, Flutter, VueJs, Angular**
+- 🌱 I’m currently learning **Angular, Springboot, Flutter, VueJs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nalince/](https://github.com/Nalince/)
 
