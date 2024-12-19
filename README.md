@@ -3,7 +3,7 @@
 <h3 align="center">Fullstack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif">
 
-- 🌱 I’m currently working on **Angular, Springboot, Flutter, VueJs** frameworks
+- 🌱 I’m currently working on **Java, Spring, Kafka, Apache Flink, Springboot, Postgres, Apache Druid, Angular, VueJs** frameworks
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nalince/](https://github.com/Nalince/)
 
