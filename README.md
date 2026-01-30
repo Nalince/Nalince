@@ -1,6 +1,6 @@
 ![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Nalin Ekanayake</h1>
-<h3 align="center">Fullstack Developer</h3>
+<h3 align="center">Fullstack Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif">
 
 - 🌱 I’m currently working on **Java, Spring, Kafka, Apache Flink, Springboot, Postgres, Apache Druid, Angular, VueJs** frameworks
