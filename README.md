@@ -37,7 +37,48 @@
 </p>
 
 ---
+### 🧠 Skills & Technologies
 
+#### 🔹 Backend & Core
+- Java (8, 11, 17, 21), Spring, Spring Boot  
+- Microservices, REST APIs, Vert.x  
+- Python (Data & ML)
+
+#### 🔹 Data Engineering (⭐ Core Strength)
+- Apache Kafka (TB-scale streaming)  
+- Apache Flink (Real-time processing)  
+- Apache Druid (Analytics & OLAP)  
+- Event-driven Architecture  
+
+#### 🔹 Frontend
+- Angular, Vue.js  
+- TypeScript, JavaScript  
+- RxJS, Akita, GraphQL  
+
+#### 🔹 DevOps & Cloud
+- AWS, Docker, Kubernetes  
+- Terraform, GitHub Actions  
+- CI/CD Pipelines  
+
+#### 🔹 Databases
+- PostgreSQL, MongoDB, MS SQL  
+- Redis (Caching)
+
+#### 🔹 Security
+- Keycloak, OAuth2, JWT  
+
+#### 🔹 Tools
+- JIRA, Confluence, Git  
+- Agile / Scrum  
+
+#### 🔹 Research & ML
+- Python (NumPy, Pandas), MATLAB  
+- Machine Learning (Battery Optimization)
+
+#### 🔹 Languages
+- English (Business)  
+- Japanese (JLPT N4 → N3)
+  
 ### 🛠️ Tech Stack
 <p align="center" style="white-space:nowrap;">
   <a href="https://angular.io"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" style="margin:6px;"/></a>
