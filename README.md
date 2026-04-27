@@ -31,7 +31,7 @@
 ---
 
 ### 🛠️ Languages and Tools
-<p align="center">
+<p align="center" style="white-space:nowrap;">
   <a href="https://angular.io"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40" style="display:inline-block; margin:5px;"/></a>
   <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" style="display:inline-block; margin:5px;"/></a>
   <a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40" style="display:inline-block; margin:5px;"/></a>
